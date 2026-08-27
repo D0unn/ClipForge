@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge",
+  "description": "Plateforme intelligente de production automatisée de vidéos verticales pour TikTok avec compréhension IA, découpage narratif 60-180s, Quality Control, Smart Crop et Scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
